@@ -1,0 +1,13 @@
+{
+  "name": "nitrado-status-bot",
+  "version": "1.0.0",
+  "description": "Discord-Statusüberwachung für Nitrado-Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2"
+  }
+}
